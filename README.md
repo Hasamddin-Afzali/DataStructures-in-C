@@ -1,0 +1,2 @@
+# DataStructures-in-C
+DataStructures-in-C (SINGLE LINKED LIST, DOUBLE LINKED LIST, STACK, QUEUE, BSTREE, AVL TREE)
